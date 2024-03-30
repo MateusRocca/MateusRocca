@@ -7,8 +7,6 @@ Atualmente estou cursando Análise e desenvolvimento de sistemas e me aprofundan
 <div style="display: inline-block;">
 <a href="https://www.linkedin.com/in/mateusrocca" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </a>
-<a href="/https://www.instagram.com/mateus.fernando_/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-</a>
 </div>
 
 
