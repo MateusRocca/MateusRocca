@@ -1,4 +1,4 @@
-<div style="display: inline-block;">
+
 ### Olá, Eu sou Mates Rocca. Bem vindo ao meu perfil! 
 
 Atualmente estou cursando Análise e desenvolvimento de sistemas e me aprofundando em Front-end. Estou animado com a perspectiva de explorar novos horizontes e enfrentar desafios empolgantes que possam surgir, aplicando meu conhecimento e experiência para contribuir de forma significativa para projetos inovadores no campo da tecnologia.
@@ -24,7 +24,7 @@ Atualmente estou cursando Análise e desenvolvimento de sistemas e me aprofundan
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="60" height="60"/>
 </div>          
-</div>
+
 
     
 
