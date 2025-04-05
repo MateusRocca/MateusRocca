@@ -1,7 +1,7 @@
 
 ### Olá, Eu sou Mates Rocca. Bem vindo ao meu perfil! 
 
-Atualmente estou cursando Análise e desenvolvimento de sistemas. Já estudei Front-end durante um ano e agora estou me aprofundando em Back-end, utilizando Java, PostegreSQL e MySQL. Estou animado com a perspectiva de explorar novos horizontes e enfrentar desafios empolgantes que possam surgir, aplicando meu conhecimento e experiência para contribuir de forma significativa para projetos inovadores no campo da tecnologia.
+Atualmente estou cursando Análise e desenvolvimento de sistemas. Já estudei Front-end durante um ano e agora estou me aprofundando em Back-end, utilizando Java, PostegreSQL e MySQL. Também tenho estudado automação de processos e análise de dados utilizando Python. Estou animado com a perspectiva de explorar novos horizontes e enfrentar desafios empolgantes que possam surgir, aplicando meu conhecimento e experiência para contribuir de forma significativa para projetos inovadores no campo da tecnologia.
 
 ### Redes sociais:
 
